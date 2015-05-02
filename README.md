@@ -39,5 +39,8 @@ With the ZeroClipboard object loaded we:
 That's it! ZeroClipboard is an outstanding utility to allow copy to the clipboard functionality on any website.
 
 # Thank you!
+https://github.com/zeroclipboard/zeroclipboard/
+http://zeroclipboard.org/
+--
  James M. Greene
  Active Maintainer of ZeroClipboard
